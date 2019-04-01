@@ -1,14 +1,14 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/environment.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/environment.rb": [
         null,
         1,
         null,
         null,
         1
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/application.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/application.rb": [
         1,
         null,
         1,
@@ -41,12 +41,12 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/boot.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/boot.rb": [
         1,
         null,
         1
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/environments/test.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/environments/test.rb": [
         1,
         null,
         null,
@@ -90,7 +90,7 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/application_controller_renderer.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/application_controller_renderer.rb": [
         null,
         null,
         null,
@@ -100,7 +100,7 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/assets.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/assets.rb": [
         null,
         null,
         null,
@@ -116,7 +116,7 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/backtrace_silencers.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/backtrace_silencers.rb": [
         null,
         null,
         null,
@@ -125,20 +125,20 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/cookies_serializer.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/cookies_serializer.rb": [
         null,
-        null,
-        null,
-        null,
-        1
-      ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/filter_parameter_logging.rb": [
         null,
         null,
         null,
         1
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/inflections.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/filter_parameter_logging.rb": [
+        null,
+        null,
+        null,
+        1
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/inflections.rb": [
         null,
         null,
         null,
@@ -156,13 +156,13 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/mime_types.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/mime_types.rb": [
         null,
         null,
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/initializers/wrap_parameters.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/initializers/wrap_parameters.rb": [
         null,
         null,
         null,
@@ -178,7 +178,7 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/factories/comedians.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/factories/comedians.rb": [
         1,
         1,
         46,
@@ -187,7 +187,7 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/factories/specials.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/factories/specials.rb": [
         1,
         1,
         1,
@@ -197,7 +197,14 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/config/routes.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/config/routes.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
         1,
         null,
         1,
@@ -205,16 +212,16 @@
         1,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/app/helpers/application_helper.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/support/factory_bot.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/support/factory_bot.rb": [
         1,
         1,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/features/comedians/new_spec.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/features/comedians/new_spec.rb": [
         1,
         null,
         1,
@@ -251,71 +258,135 @@
         null,
         1,
         null,
-        null,
-        null,
-        null,
-        null
-      ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/features/comedians/welcome_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/models/comedian_spec.rb": [
-        1,
-        null,
-        1,
-        null,
-        1,
-        2,
-        null,
-        null,
-        1,
-        2,
-        2,
-        2,
-        null,
-        null,
-        1,
-        1,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        3,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null,
-        null,
-        1,
         null,
         null,
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/app/models/comedian.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/features/comedians/welcome_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/features/user/new_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/features/user/user_account_exists_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/models/comedian_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/models/comedian.rb": [
         1,
         null,
         1,
@@ -335,12 +406,12 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/app/models/application_record.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/models/application_record.rb": [
         1,
         1,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/spec/models/special_spec.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/models/special_spec.rb": [
         1,
         null,
         1,
@@ -404,7 +475,7 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/app/models/special.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/models/special.rb": [
         1,
         null,
         1,
@@ -444,7 +515,27 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/app/controllers/comedians_controller.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/spec/models/user_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        2,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/models/user.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        1,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/controllers/comedians_controller.rb": [
         1,
         null,
         1,
@@ -494,12 +585,71 @@
         null,
         null
       ],
-      "/Users/earltstephens/turing/1901_2module/projects/laugh_tracks/app/controllers/application_controller.rb": [
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/controllers/application_controller.rb": [
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        3,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/controllers/users_controller.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/earltstephens/turing/1901_2module/playground/31mar19/laugh_tracks/app/controllers/sessions_controller.rb": [
+        1,
+        null,
+        1,
+        null,
+        null,
+        1,
+        2,
+        2,
+        2,
+        null,
+        2,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
         null
       ]
     },
-    "timestamp": 1552857968
+    "timestamp": 1554149198
   }
 }
